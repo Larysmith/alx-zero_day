@@ -1,1 +1,6 @@
-me
+git pull
+git push
+git add .
+git ignore
+git clone
+git commit -m "m"
